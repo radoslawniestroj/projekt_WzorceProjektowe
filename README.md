@@ -15,6 +15,12 @@ Temat projektu to _,,Sklep internetowy- Zalando"_ .
 
 * Visual Paradigm - język UML
 
+## Elementy zawarte w projekcie:
+
+* Diagram klas
+* Diagram przypadków użycia
+* Diagram sekwencji 
+
 ## Status 
 
 In progress 
